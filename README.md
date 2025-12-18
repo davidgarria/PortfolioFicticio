@@ -1,2 +1,2 @@
 # PortfolioFicticio
-Repositorio para asignatura de PROMETEO
+Repositorio para Proyecto1 del Master PROMETEO
